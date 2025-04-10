@@ -1,4 +1,14 @@
-def print():
-  print("nithila G-22mic0001")
+"""
+This module demonstrates a simple example of a Python script.
+It includes a function to print a greeting message.
+"""
 
-print(print())
+def main():
+    """
+    Main function that prints a greeting message.
+    """
+    print("Hello, World!,22mic0001")
+
+
+if __name__ == "__main__":
+    main()
