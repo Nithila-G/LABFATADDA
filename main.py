@@ -1,8 +1,13 @@
-
+"""
+This module demonstrates a simple example of a Python script.
+It includes a function to print a greeting message.
+"""
 
 def main():
-    
-    print("Hello, World!,22mic0001")
+    """
+    Main function that prints a greeting message.
+    """
+    print("hello world-22mic0001")
 
 
 if __name__ == "__main__":
